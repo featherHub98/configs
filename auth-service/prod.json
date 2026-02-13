@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "somecloud",
+    "port": 5432,
+    "username": "admin",
+    "password": "secret",
+    "database": "auth_db"
+  },
+  "jwt": {
+    "secret": "super-secret-jwt-key"
+  }
+}
