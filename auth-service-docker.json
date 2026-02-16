@@ -1,0 +1,5 @@
+{
+  "PORT": "3001",
+  "MONGO_URI": "mongodb://mongodb:27017/gomycode",
+  "JWT_SECRET": "DOCKER_SECRET_KEY"
+}
